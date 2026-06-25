@@ -50,3 +50,4 @@ EXPOSE 8888
 # Run the application.
 CMD ["python", "app/app.py"]
 # as a top we should always run the application in JSON form
+
